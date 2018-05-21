@@ -1,3 +1,3 @@
 <?php
-header('location:halaman.php?hal=home')
+header('location:halaman.html?hal=home')
 ?>
